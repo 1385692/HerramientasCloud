@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'HerramientaCloud'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD147B9456144F59947E939B935D1901 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8A2E1614FCE4A0BA819029DF78A1367 }}
           package: .
